@@ -1,0 +1,7 @@
+# tensorflow
+# opencv-python
+# object-detection
+# numpy
+# av
+# tellopy
+# pygame
