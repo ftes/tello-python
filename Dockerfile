@@ -20,4 +20,4 @@ WORKDIR /app
 
 COPY . .
 
-CMD [ "python", "./src/tello_test.py", "command.txt" ]
+CMD [ "python", "./src/tello_cmd.py" ]
